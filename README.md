@@ -1,11 +1,5 @@
 # 🚌 Shohoz.com — Manual Testing Project
 
-![Testing Type](https://img.shields.io/badge/Testing-Manual%20%7C%20Black--Box%20%7C%20Functional-blue)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Pass Rate](https://img.shields.io/badge/Pass%20Rate-100%25-success)
-![Browser](https://img.shields.io/badge/Browser-Google%20Chrome-orange)
-![OS](https://img.shields.io/badge/OS-Windows%2010-lightgrey)
-
 A comprehensive manual testing project for **[Shohoz.com](https://www.shohoz.com)** — Bangladesh's leading online **bus, train, and air ticket** booking platform. This repository contains structured test cases, test plan, and bug report documentation for core user-facing features.
 
 ---
@@ -31,6 +25,14 @@ A comprehensive manual testing project for **[Shohoz.com](https://www.shohoz.com
 | Create Account | 23 | 23 | 0 | ![100%](https://img.shields.io/badge/-100%25-brightgreen) |
 | Login | 24 | 24 | 0 | ![100%](https://img.shields.io/badge/-100%25-brightgreen) |
 | **Total** | **87** | **87** | **0** | **100%** |
+
+---
+
+## 📂 Test Documentation
+
+> 📊 **View the full test case sheet directly in your browser (no download needed):**
+>
+> ### 👉 [Click here to view the Test Cases & Bug Report (Google Sheets)](https://docs.google.com/spreadsheets/d/1QWc3x2nRGwzhwcsSPEpyTGEfIygOaFaM/view)
 
 ---
 
@@ -79,7 +81,7 @@ A comprehensive manual testing project for **[Shohoz.com](https://www.shohoz.com
 | 03 | Last Name field accepts invalid characters, numbers & unnecessary spaces | Registration Form | 🟡 Medium | 🟡 Medium |
 | 04 | Weak password (e.g. 12345678) is accepted during registration | Password Validation | 🔴 High | 🔴 High |
 
-> 📄 Full bug details with reproduction steps are available in the `Bug_Report` sheet of the Excel file.
+> 📄 Full bug details with reproduction steps are available in the `Bug_Report` sheet of the spreadsheet above.
 
 ---
 
@@ -87,7 +89,7 @@ A comprehensive manual testing project for **[Shohoz.com](https://www.shohoz.com
 
 | Tool | Purpose |
 |---|---|
-| 📊 Microsoft Excel | Test case documentation and bug reporting |
+| 📊 Microsoft Excel / Google Sheets | Test case documentation and bug reporting |
 | 🌐 Google Chrome | Browser for manual testing |
 | 🚌 Shohoz.com (Live) | Application under test |
 | 🐙 GitHub | Version control and project hosting |
@@ -108,4 +110,5 @@ shohoz-manual-testing/
     └── Mind Map          # Feature mind map
 ```
 
+---
 
