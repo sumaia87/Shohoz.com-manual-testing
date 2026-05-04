@@ -1,3 +1,11 @@
+# 🚌 Shohoz.com — Manual Testing Project
+
+![Testing Type](https://img.shields.io/badge/Testing-Manual%20%7C%20Black--Box%20%7C%20Functional-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Pass Rate](https://img.shields.io/badge/Pass%20Rate-100%25-success)
+![Browser](https://img.shields.io/badge/Browser-Google%20Chrome-orange)
+![OS](https://img.shields.io/badge/OS-Windows%2010-lightgrey)
+
 A comprehensive manual testing project for **[Shohoz.com](https://www.shohoz.com)** — Bangladesh's leading online **bus, train, and air ticket** booking platform. This repository contains structured test cases, test plan, and bug report documentation for core user-facing features.
 
 ---
@@ -81,7 +89,7 @@ A Bug Report sheet is included in the Excel file for tracking any issues found i
 
 ## 📁 Project Structure
 
-
+```
 shohoz-manual-testing/
 ├── README.md
 └── shohoz_com_ManualTest.xlsx
@@ -91,4 +99,15 @@ shohoz-manual-testing/
     ├── test_plan         # Full test plan
     ├── Bug_Report        # Bug tracking sheet
     └── Mind Map          # Feature mind map
+```
 
+---
+
+## 👩‍💻 Author
+
+**Sumaia Akter**
+Junior QA Engineer | Manual Tester
+
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-black?logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourprofile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-your.email@gmail.com-red?logo=gmail)](mailto:your.email@gmail.com)
