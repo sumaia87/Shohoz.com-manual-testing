@@ -70,9 +70,16 @@ A comprehensive manual testing project for **[Shohoz.com](https://www.shohoz.com
 
 ## 🐛 Bug Report
 
-> ✅ **No bugs were found** during this testing cycle. All **87 test cases** passed successfully.
+**4 bugs were identified** during this testing cycle across the Navbar and Registration Form modules.
 
-A Bug Report sheet is included in the Excel file for tracking any issues found in future regression or exploratory testing rounds.
+| SL | Issue | Module | Priority | Severity |
+|---|---|---|---|---|
+| 01 | Navbar call button (Helpline 16374) is non-functional | Navbar / Header | 🟡 Medium | 🟡 Medium |
+| 02 | First Name field accepts numbers, spaces & invalid characters | Registration Form | 🟡 Medium | 🟡 Medium |
+| 03 | Last Name field accepts invalid characters, numbers & unnecessary spaces | Registration Form | 🟡 Medium | 🟡 Medium |
+| 04 | Weak password (e.g. 12345678) is accepted during registration | Password Validation | 🔴 High | 🔴 High |
+
+> 📄 Full bug details with reproduction steps are available in the `Bug_Report` sheet of the Excel file.
 
 ---
 
@@ -101,13 +108,4 @@ shohoz-manual-testing/
     └── Mind Map          # Feature mind map
 ```
 
----
 
-## 👩‍💻 Author
-
-**Sumaia Akter**
-Junior QA Engineer | Manual Tester
-
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-black?logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourprofile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-your.email@gmail.com-red?logo=gmail)](mailto:your.email@gmail.com)
